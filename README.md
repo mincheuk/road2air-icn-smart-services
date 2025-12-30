@@ -36,7 +36,7 @@
 | 스트리밍 수집 | Event Hubs |
 | 스트림 처리 | Azure Stream Analytics (SQL) |
 | 저장소 | Cosmos DB |
-| 자동화/서빙 | Azure Functions (Change Feed) |
+| 자동화/서빙 | Azure Functions |
 | 시각화 | Power BI |
 | 알림 | Teams Webhook |
 | 버전관리 | Git + GitHub |
