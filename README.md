@@ -46,7 +46,7 @@
 ## ✅ 주요 역할 (정민철)
 
 - **실시간 파이프라인 구축(2주 내 E2E 가동)**  
-  Event Hubs → Stream Analytics(SQL Window/집계) → Cosmos DB → Functions(Change Feed)
+  Event Hubs → Stream Analytics(SQL Window/집계) → Cosmos DB → Power BI
   - 전처리(형 변환/필드 정규화), 스키마 매핑, 통합 컨테이너 적재 구조 설계
 
 - **Power BI 자동화**  
