@@ -21,7 +21,7 @@
 ↓  
 💾 저장 (Cosmos DB: 도메인별 컨테이너 + 통합 컨테이너)  
 ↓  
-⚙️ 서빙 및 자동화 (Azure Functions: Change Feed)    
+⚙️ 서빙 및 자동화 (Azure Functions)    
 ↓  
 📊 시각화 (Power BI Dashboard)  
 ↓  
