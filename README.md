@@ -17,11 +17,11 @@
 ↓  
 🚌 수집 (Event Hubs)  
 ↓  
-🧩 스트림 처리 (Azure Stream Analytics / SQL Window)    
+🧩 스트림 처리 (Azure Stream Analytics)    
 ↓  
 💾 저장 (Cosmos DB: 도메인별 컨테이너 + 통합 컨테이너)  
 ↓  
-⚙️ 서빙 및 자동화 (Azure Functions)    
+⚙️ 서빙 및 자동화 (Azure Functions + Logic Apps)    
 ↓  
 📊 시각화 (Power BI Dashboard)  
 ↓  
@@ -36,7 +36,7 @@
 | 스트리밍 수집 | Event Hubs |
 | 스트림 처리 | Azure Stream Analytics (SQL) |
 | 저장소 | Cosmos DB |
-| 자동화/서빙 | Azure Functions |
+| 자동화/서빙 | Azure Functions + Logic Apps |
 | 시각화 | Power BI |
 | 알림 | Teams Webhook |
 | 버전관리 | Git + GitHub |
@@ -55,7 +55,7 @@
   
   4)DB/저장소 설계·운영 및 데이터 흐름 관리
   
-  5)Azure Functions를 이용한 파이프라인 운영 자동화
+  5)Azure Functions, Locgic Apps를 이용한 파이프라인 운영 자동화
 
 - **Power BI 자동화**  
   1)유저용 대시보드 구성
