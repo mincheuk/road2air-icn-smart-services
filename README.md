@@ -55,7 +55,7 @@
   
   4)DB/저장소 설계·운영 및 데이터 흐름 관리
   
-  5)Fabric/Azure Functions를 이용한 파이프라인 운영 자동화
+  5)Azure Functions를 이용한 파이프라인 운영 자동화
 
 - **Power BI 자동화**  
   1)유저용 대시보드 구성
