@@ -9,9 +9,7 @@
 
 <img width="662" height="406" alt="image" src="https://github.com/user-attachments/assets/21efa4aa-10ac-4558-a713-04b66a814403" />
 
-<img width="1087" height="606" alt="공항 주차장 확인(Desktop)" src="https://github.com/user-attachments/assets/bb7be6f8-5b1e-4cb6-81b0-4a821bfdc78a" />
-
-<img width="943" height="572" alt="출국 전 종합정보 확인(Desktop)" src="https://github.com/user-attachments/assets/6bce2235-f210-45af-b26a-e13028db8a68" />
+<img width="1087" height="606" alt="공항 주차장 확인(Desktop)" src="https://github.com/user-attachments/assets/bb7be6f8-5b1e-4cb6-81b0-4a821bfdc78a" />  <img width="943" height="572" alt="출국 전 종합정보 확인(Desktop)" src="https://github.com/user-attachments/assets/6bce2235-f210-45af-b26a-e13028db8a68" />
 
 ---
 
